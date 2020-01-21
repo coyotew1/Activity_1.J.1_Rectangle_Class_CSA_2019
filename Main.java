@@ -29,5 +29,6 @@ public class Main {
             System.out.println("The perimeter of " + rectangles[i].getName() + " is " + rectangles[i].perimeter() + " inches\n");
         }
 
+    
     }
 }
